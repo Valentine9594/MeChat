@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993055920643",
+    "project_id": "medatabase-5077c",
+    "storage_bucket": "medatabase-5077c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993055920643:android:c6a7c67bc2387871577436",
+        "android_client_info": {
+          "package_name": "com.example.mechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993055920643-l2lllgrv1eqhht8u14jk58482vju7qef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3HC_p_Ol0tRLFwxAmwedr0fdzaQ6WLts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993055920643-l2lllgrv1eqhht8u14jk58482vju7qef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

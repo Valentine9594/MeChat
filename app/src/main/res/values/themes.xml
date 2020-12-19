@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools" >
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#d12c48</item>
+        <item name="colorPrimaryVariant">#d12c48</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#d12c48</item>
+        <item name="colorSecondaryVariant">#d12c48</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color.
+        <item name="colorPrimaryVariant">#d12c48</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item> -->
+
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:background">@drawable/splash_background</item>
+    </style>
+
+</resources>

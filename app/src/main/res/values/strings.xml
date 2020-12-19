@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MeChat</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account!</string>
+    <string name="login">Login</string>
+    <string name="back_to_register">Back to Register</string>
+    <string name="todo">TODO</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="new_messages">New Messages</string>
+    <string name="textview">TextView</string>
+    <string name="display_users">Display Users</string>
+    <string name="display_usernames">Display Usernames</string>
+    <string name="usernamess">Usernamess</string>
+    <string name="send">Send</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="return_message">Return Message</string>
+    <string name="return_message_button">TODO</string>
+    <string name="first_message">First message</string>
+    <string name="image_first_message">Image First Image</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="search_users">search_users</string>
+    <string name="send_text_m">send_text_m</string>
+    <string name="add_photo_register">ADD PHOTO</string>
+</resources>
